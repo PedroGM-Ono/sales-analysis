@@ -1,2 +1,2 @@
-# sales-analysis
-sales analysis - mock case
+# Sales Mock Case
+
